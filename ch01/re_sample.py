@@ -9,4 +9,5 @@ data = """
 
 pat = re.compile("(\d{6})[-](\d{1})\d{6}")
 print(pat.sub("\g<1>-\g<2>******", data))
+print("Thanks for all")
 
