@@ -1,4 +1,4 @@
-# pylib(연습용 브랜치)
+# pylib(chapter_01 updated)
 
 파이썬 라이브러리 책의 소스
 
